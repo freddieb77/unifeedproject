@@ -1,0 +1,9 @@
+/* @media */
+
+@media only screen and (max-width: 700px) {
+    .main > .content {
+        display: block;
+        text-align: center;
+      }
+    
+  }
